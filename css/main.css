@@ -1134,12 +1134,12 @@ p.last {padding-bottom:0;
 }
 #map_section {
   margin:0 0 0 0;
-  max-height:30px;
+  max-height:420px;
   overflow:hidden;
 }
 #map-canvas {
   width:100%;
-  height:3400px;
+  height:380px;
 }
 .home_p,
 .phone_p {
