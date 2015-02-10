@@ -987,64 +987,6 @@ img.fright {
   content:'';
 }
 
-/*-- Diagrams --*/
-.diagramm {padding:12px 0 0 0;
-}
-.skills_list {
-  padding:0!important;
-  list-style:none!important;
-  margin:0!important;
-}
-.skills_list li {
-  border:0;
-  border-radius:0;
-  box-shadow:none;
-  height:40px;
-  display:block;
-  position:relative;
-  margin:0 0 10px 0!important;
-  overflow:hidden;
-  padding:0!important;  
-}
-    
-.skills_list li .diagram_bar {
-  padding:0;
-  display:block;
-  position:relative;
-}
-.skills_list li .diagram_bar h6 {
-  margin:0;
-  padding:10px 15px;
-  font-size:13px;
-  font-family: 'Open Sans', sans-serif;
-  font-weight:400;
-  font-style:normal;
-  line-height:20px;
-  position:absolute;
-  left:0;
-  top:0;
-  z-index:50;
-  color:#fff;
-  border-radius:0;
-  -webkit-border-radius:0;  
-}
-.skills_list li .diagram_bar h6.skill_percent {
-  padding:10px 15px;
-  left:auto;
-  right:0;
-  margin-right:0;
-  display:block;
-}
-.skill_div-wrapper {
-  position:relative;
-  overflow:hidden;
-  height:40px;
-  display:block;
-  background:none;
-  border-radius:0;
-  box-shadow:none;    
-}
-
 @-webkit-keyframes progress-bar-stripes-diagr {
   from {
     background-position: 32px 0;
@@ -1140,16 +1082,6 @@ p.last {padding-bottom:0;
 #map-canvas {
   width:100%;
   height:3400px;
-}
-.home_p,
-.phone_p {
-  padding-left:28px;
-  background-position:0 0;
-  background-repeat:no-repeat;
-}
-.home_p {background-image:url(../images/home_icon.png);
-}
-.phone_p {background-image:url(../images/phone_icon.png);
 }
 
 form input {
@@ -1404,8 +1336,8 @@ form input.clear_btn:hover {
     height:33px;
   }
   .section_in {
-    padding:25px;
-    height:324px;
+    padding:10px;
+    height:320px;
   }
   img.fleft {margin:0 10px 10px 0;
   }
