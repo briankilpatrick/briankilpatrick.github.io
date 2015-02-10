@@ -1134,7 +1134,7 @@ p.last {padding-bottom:0;
 }
 #map_section {
   margin:0 0 0 0;
-  max-height:420px;
+  max-height:380px;
   overflow:hidden;
 }
 #map-canvas {
