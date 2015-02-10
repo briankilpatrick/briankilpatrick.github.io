@@ -144,8 +144,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
   -o-background-size: cover;
   background-size: cover;
 }
-.
-:after { 
+.clearfix:after { 
  content: "."; 
  visibility: hidden; 
  display: block; 
@@ -318,7 +317,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 .item-box i{
   float: left;
-  margin-right: 6px;
+  margin-right: 12px;
 }
 .item-box i.icon-envelope{
 
