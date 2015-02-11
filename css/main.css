@@ -1520,9 +1520,9 @@ form input.clear_btn:hover {
     padding:25px;
     height:324px;
   }
-  img.fleft {margin:0 25px 10px 0;
+  img.fleft {margin:25px 10px;
   }
-  img.fright {margin:0 0 10px 25px;
+  img.fright {margin:25px 10px;
   }
   h2 {
     padding:0 0 8px 0;
