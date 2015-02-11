@@ -1632,7 +1632,7 @@ form input.clear_btn:hover {
   }
   .fleft {float:none;
   }
-  .fright {float:none;
+  .fright {float:left;
   }
   .col1_2 {width:100%;
   }
