@@ -930,14 +930,14 @@ h4 {
 img {max-width:100%;
 }
 
-.col1_2 {width:420px;
+.col1_2 {width:350px;
 }
 img.fleft {
-  margin:0 10px 10px 0;
+  margin:10px 10px;
   float:left;
 }
 img.fright {
-  margin:0 0 10px 10px;
+  margin:10px 10px;
   float:right;
 }
 .divider {height:14px;
@@ -1632,7 +1632,7 @@ form input.clear_btn:hover {
   }
   .fleft {float:none;
   }
-  .fright {float:left;
+  .fright {float:none;
   }
   .col1_2 {width:100%;
   }
