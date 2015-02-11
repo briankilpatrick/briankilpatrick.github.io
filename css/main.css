@@ -678,7 +678,7 @@ Change widths as necessary
 }
 
 /* LANDSCAPE TABLET/NETBOOK/LAPTOP */
-@media only screen and (min-width: 1024px) { 
+@media only screen and (min-width: 1200px) { 
   body {
 
   }
@@ -686,7 +686,7 @@ Change widths as necessary
     display: inline;
   }
   .tab a i{
-  font-size: 8px;
+  font-size: 12px;
   margin-right: 6px;
 }
   .tab a{
@@ -701,7 +701,7 @@ Change widths as necessary
   .g3 {width:98.0%}
 }
 
-@media only screen and (min-width: 1400px) { 
+@media only screen and (min-width: 1200px) { 
   /* DESKTOP */
   body {
 
@@ -710,7 +710,7 @@ Change widths as necessary
 
 /* WIDESCREEN */
 /* Increased body size for legibility */
-@media only screen and (min-width: 1400px) { 
+@media only screen and (min-width: 1200px) { 
   body {} /* 18.5px / 28px */
 }
 
