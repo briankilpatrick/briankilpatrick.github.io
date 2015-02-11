@@ -333,7 +333,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 .item-box .item-data p{
   margin: 0px;
-  font-size: 8px;
+  font-size: 12px;
   color: #999;
 }
 
@@ -686,7 +686,7 @@ Change widths as necessary
     display: inline;
   }
   .tab a i{
-  font-size: 16px;
+  font-size: 8px;
   margin-right: 6px;
 }
   .tab a{
