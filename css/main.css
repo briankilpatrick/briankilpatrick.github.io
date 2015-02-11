@@ -930,7 +930,7 @@ h4 {
 img {max-width:100%;
 }
 
-.col1_2 {width:380px;
+.col1_2 {width:420px;
 }
 img.fleft {
   margin:0 30px 10px 0;
@@ -1528,9 +1528,9 @@ form input.clear_btn:hover {
     padding:0 0 8px 0;
     font-size:24px;
   } 
-  #map_section {max-height:240px;
+  #map_section {max-height:350px;
   }
-  #map-canvas {height:324px;
+  #map-canvas {height:350px;
   }
   .prev_item_info_scroll {
     height:220px;
@@ -1624,11 +1624,11 @@ form input.clear_btn:hover {
   } 
   .section_in {
     padding:20px;
-    height:360px;
+    height:350px;
   }
-  img.fleft {margin:0 0 10px 0;
+  img.fleft {margin:20px 10px;
   }
-  img.fright {margin:0 0 10px 0;
+  img.fright {margin:20px 10px;
   }
   .fleft {float:none;
   }
@@ -1640,9 +1640,9 @@ form input.clear_btn:hover {
     margin-right:20px !important;
     width:50%;
   }
-  #map_section {max-height:200px;
+  #map_section {max-height:350px;
   }
-  #map-canvas {height:200px;
+  #map-canvas {height:350px;
   }
   .mobile_divider {display:block;
   }
