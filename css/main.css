@@ -1,3 +1,7 @@
+html, body {
+  height: 100%;
+}
+
 body {
     background-color: #003A3A;
 }
@@ -27,7 +31,6 @@ a:link {
 .wrapper {
   min-height: 100%;
   margin: 0 auto -50px;
-  max-width:760px;
 }
 footer, .push {
   height: 50px;
