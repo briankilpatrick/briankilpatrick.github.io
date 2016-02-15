@@ -1,13 +1,17 @@
 .box{
     background-color: coral;
     display: table-cell;
-    border-radius:5px;
 }
-.text{
+.mainText{
     color:white;
     font-weight:bold;
     text-align:center;
-    padding: 10px 0;
+}
+
+.bracket{
+    color:white;
+    font-weight:bold;
+    text-align:center;
 }
 
 .wrapper {
