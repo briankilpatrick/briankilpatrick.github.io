@@ -1,17 +1,21 @@
+body {
+    background-color: #006699;
+}
+
 .box{
-    background-color: coral;
+    background-color: #006699;
     display: table-cell;
 }
 .mainText{
     color:white;
-    font-size: 1em;
+    font-size: 1.5em;
     font-weight:bold;
     text-align:center;
 }
 
 .bracket{
     color:white;
-    font-size: 4em;
+    font-size: 10em;
     font-weight:bold;
     text-align:center;
 }
