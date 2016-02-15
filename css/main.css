@@ -8,9 +8,17 @@ ul {
 
 li {
   display: inline;
-  text-align: left;
+  text-align: right;
   font-size: 1em;
   padding-left: 15px;
+}
+
+a {
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
 }
 
 .box {
