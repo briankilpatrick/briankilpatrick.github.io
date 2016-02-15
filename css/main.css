@@ -2,12 +2,11 @@ body {
     background-color: #003A3A;
 }
 
-site-footer {
+footer {
     position:absolute;
     bottom:0px;
     font-size: 0.7em;
     color: White;
-    padding-bottom: 10px;
 }
 
 ul {
