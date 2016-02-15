@@ -42,6 +42,7 @@ a:link {
     font-size: 2em;
     font-weight:bold;
     text-align:left;
+    vertical-align:middle;
 }
 
 .bracket {
