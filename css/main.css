@@ -24,8 +24,3 @@ body {
     display: table;
     width: 400px;
 }
-
-.middle {
-    display: table-cell;
-    width: 10%;
-}
