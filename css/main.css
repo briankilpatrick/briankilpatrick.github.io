@@ -51,15 +51,12 @@ footer p{
 }
 
 .center {
-    width: 33%;
     height: 100px;
     color:white;
-
     position: absolute;
     top:-50px;
     bottom: 0;
     left: 0;
     right: 0;
-
     margin: auto;
 }
