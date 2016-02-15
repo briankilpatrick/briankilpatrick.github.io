@@ -2,6 +2,16 @@ body {
     background-color: #003A3A;
 }
 
+ul
+{
+    list-style-type: none;
+    display: inline;
+    text-align: left;
+    font-size: 1em;
+    padding-left: 15px;
+    
+}
+
 .box{
     background-color: #003A3A;
     display: table-cell;
