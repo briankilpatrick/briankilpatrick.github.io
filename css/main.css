@@ -2,28 +2,30 @@ body {
     background-color: #003A3A;
 }
 
-ul
-{
+ul {
     list-style-type: none;
-    display: inline;
-    text-align: left;
-    font-size: 1em;
-    padding-left: 15px;
-    
 }
 
-.box{
+li {
+  display: inline;
+  text-align: left;
+  font-size: 1em;
+  padding-left: 15px;
+}
+
+.box {
     background-color: #003A3A;
     display: table-cell;
 }
-.mainText{
+
+.mainText {
     color:white;
     font-size: 2em;
     font-weight:bold;
     text-align:left;
 }
 
-.bracket{
+.bracket {
     color:white;
     font-size: 15em;
     font-weight:bold;
