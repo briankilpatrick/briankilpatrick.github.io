@@ -4,11 +4,10 @@ body {
 
 site-footer {
     position:absolute;
-    width:100%;
     bottom:0px;
     font-size: 0.7em;
     color: White;
-    height: 4em;
+    padding-bottom: 10px;
 }
 
 ul {
