@@ -4,12 +4,14 @@
 }
 .mainText{
     color:white;
+    font-size: 1em;
     font-weight:bold;
     text-align:center;
 }
 
 .bracket{
     color:white;
+    font-size: 4em;
     font-weight:bold;
     text-align:center;
 }
