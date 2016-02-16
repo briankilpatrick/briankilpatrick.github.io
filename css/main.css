@@ -37,6 +37,11 @@ a:link {
   margin: 0 auto -100px;
 }
 
+.social {
+  display: inline;
+  text-align: center;
+}
+
 .post {
 margin-left: auto ;
 margin-right: auto ;
