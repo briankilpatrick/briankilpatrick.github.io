@@ -51,6 +51,10 @@ footer p{
   text-align:center;
 }
 
+p{
+  color: white;
+}
+
 .center {
     height: 100px;
     color:white;
