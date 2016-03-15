@@ -7,7 +7,10 @@ html, body {
 }
 
 body {
-    background-color: #003A3A;
+    background-image: url("images/darkBackground.jpg");
+		background-repeat:no-repeat;
+		background-size:contain;
+		background-position:center;
 }
 
 ul {
@@ -37,22 +40,9 @@ a:link {
   margin: 0 auto -100px;
 }
 
-.social {
-  display: inline;
-  text-align: center;
-}
-
 .post {
 margin-left: auto ;
 margin-right: auto ;
-}
-
-#pdf {
-padding: 40px;
-position: relative;
-background: #FFF;
-margin: 20px 0 0 0;
-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
 }
 
 footer, .push {
@@ -72,16 +62,22 @@ footer p{
 p{
   color: white;
   margin-left: auto ;
-  margin-right: auto ;
 }
 
-.center {
-    height: 100px;
-    color:white;
-    position: absolute;
-    top:-50px;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto;
+h1{
+    display: block;
+		font-size: 8em;
+		font-weight: bold
 }
+
+
+
+
+
+
+
+
+
+
+
+
